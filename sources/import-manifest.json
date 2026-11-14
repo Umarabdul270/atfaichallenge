@@ -1,0 +1,49 @@
+{
+  "generated_at_utc": "2026-11-14T08:41:54.375667+00:00",
+  "imports": [
+    {
+      "source_repository": "Umarabdul270/atf_ai_weekOne",
+      "source_url": "https://github.com/Umarabdul270/atf_ai_weekOne",
+      "source_branch": "main",
+      "source_commit": "cbddb96fe31f727e5e141b6aae7f4fa9c37bea3a",
+      "source_commit_url": "https://github.com/Umarabdul270/atf_ai_weekOne/commit/cbddb96fe31f727e5e141b6aae7f4fa9c37bea3a",
+      "target_path": "sources/Umarabdul270/atf_ai_weekOne",
+      "import_method": "latest-files snapshot (no source Git history)",
+      "file_count": 10,
+      "total_bytes": 353243
+    },
+    {
+      "source_repository": "Umarabdul270/weekTwo",
+      "source_url": "https://github.com/Umarabdul270/weekTwo",
+      "source_branch": "main",
+      "source_commit": "3827c18d5d34e4f955f15a00cdefe73f6ad9b2b0",
+      "source_commit_url": "https://github.com/Umarabdul270/weekTwo/commit/3827c18d5d34e4f955f15a00cdefe73f6ad9b2b0",
+      "target_path": "sources/Umarabdul270/weekTwo",
+      "import_method": "latest-files snapshot (no source Git history)",
+      "file_count": 7,
+      "total_bytes": 77687
+    },
+    {
+      "source_repository": "Umarabdul270/weekThree",
+      "source_url": "https://github.com/Umarabdul270/weekThree",
+      "source_branch": "main",
+      "source_commit": "0db46094df6f37e205c47645bb25733ba24265db",
+      "source_commit_url": "https://github.com/Umarabdul270/weekThree/commit/0db46094df6f37e205c47645bb25733ba24265db",
+      "target_path": "sources/Umarabdul270/weekThree",
+      "import_method": "latest-files snapshot (no source Git history)",
+      "file_count": 7,
+      "total_bytes": 57986
+    },
+    {
+      "source_repository": "Umarabdul270/weekFour",
+      "source_url": "https://github.com/Umarabdul270/weekFour",
+      "source_branch": "main",
+      "source_commit": "0e5e1e2b4c99a671d9b1b0790291626da6d626f6",
+      "source_commit_url": "https://github.com/Umarabdul270/weekFour/commit/0e5e1e2b4c99a671d9b1b0790291626da6d626f6",
+      "target_path": "sources/Umarabdul270/weekFour",
+      "import_method": "latest-files snapshot (no source Git history)",
+      "file_count": 7,
+      "total_bytes": 158162
+    }
+  ]
+}
